@@ -1,7 +1,7 @@
 # Output directory containing the formatted manuscript
 
 The [`gh-pages`](https://github.com/digital-botanical-gardens-initiative/ls-report-2023/tree/gh-pages) branch hosts the contents of this directory at <https://digital-botanical-gardens-initiative.github.io/ls-report-2023/>.
-The permalink for this webpage version is <https://digital-botanical-gardens-initiative.github.io/ls-report-2023/v/45b24424ea2bec2cd78b5cc92526445a8e70299b/>.
+The permalink for this webpage version is <https://digital-botanical-gardens-initiative.github.io/ls-report-2023/v/6563d8b6cf179aa9a2d0232fde364ccbc7c44555/>.
 To redirect to the permalink for the latest manuscript version at anytime, use the link <https://digital-botanical-gardens-initiative.github.io/ls-report-2023/v/freeze/>.
 
 ## Files
@@ -35,4 +35,4 @@ Verifying timestamps with the `ots verify` command requires running a local bitc
 ## Source
 
 The manuscripts in this directory were built from
-[`45b24424ea2bec2cd78b5cc92526445a8e70299b`](https://github.com/digital-botanical-gardens-initiative/ls-report-2023/commit/45b24424ea2bec2cd78b5cc92526445a8e70299b).
+[`6563d8b6cf179aa9a2d0232fde364ccbc7c44555`](https://github.com/digital-botanical-gardens-initiative/ls-report-2023/commit/6563d8b6cf179aa9a2d0232fde364ccbc7c44555).
