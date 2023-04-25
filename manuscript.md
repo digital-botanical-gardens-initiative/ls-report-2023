@@ -1,5 +1,5 @@
 ---
-title: Manuscript Title
+title: LS report 2023
 keywords:
 - markdown
 - publishing
@@ -16,15 +16,15 @@ header-includes: |
   -->
   <meta name="dc.format" content="text/html" />
   <meta property="og:type" content="article" />
-  <meta name="dc.title" content="Manuscript Title" />
-  <meta name="citation_title" content="Manuscript Title" />
-  <meta property="og:title" content="Manuscript Title" />
-  <meta property="twitter:title" content="Manuscript Title" />
+  <meta name="dc.title" content="LS report 2023" />
+  <meta name="citation_title" content="LS report 2023" />
+  <meta property="og:title" content="LS report 2023" />
+  <meta property="twitter:title" content="LS report 2023" />
   <meta name="dc.date" content="2023-04-25" />
   <meta name="citation_publication_date" content="2023-04-25" />
   <meta property="article:published_time" content="2023-04-25" />
-  <meta name="dc.modified" content="2023-04-25T15:27:24+00:00" />
-  <meta property="article:modified_time" content="2023-04-25T15:27:24+00:00" />
+  <meta name="dc.modified" content="2023-04-25T15:28:40+00:00" />
+  <meta property="article:modified_time" content="2023-04-25T15:28:40+00:00" />
   <meta name="dc.language" content="en-US" />
   <meta name="citation_language" content="en-US" />
   <meta name="dc.relation.ispartof" content="Manubot" />
@@ -45,9 +45,9 @@ header-includes: |
   <meta name="citation_fulltext_html_url" content="https://digital-botanical-gardens-initiative.github.io/ls-report-2023/" />
   <meta name="citation_pdf_url" content="https://digital-botanical-gardens-initiative.github.io/ls-report-2023/manuscript.pdf" />
   <link rel="alternate" type="application/pdf" href="https://digital-botanical-gardens-initiative.github.io/ls-report-2023/manuscript.pdf" />
-  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/ls-report-2023/v/72a96c90f2aab350de5e06f57587f654d5df1d6b/" />
-  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/ls-report-2023/v/72a96c90f2aab350de5e06f57587f654d5df1d6b/" />
-  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/ls-report-2023/v/72a96c90f2aab350de5e06f57587f654d5df1d6b/manuscript.pdf" />
+  <link rel="alternate" type="text/html" href="https://digital-botanical-gardens-initiative.github.io/ls-report-2023/v/45b24424ea2bec2cd78b5cc92526445a8e70299b/" />
+  <meta name="manubot_html_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/ls-report-2023/v/45b24424ea2bec2cd78b5cc92526445a8e70299b/" />
+  <meta name="manubot_pdf_url_versioned" content="https://digital-botanical-gardens-initiative.github.io/ls-report-2023/v/45b24424ea2bec2cd78b5cc92526445a8e70299b/manuscript.pdf" />
   <meta property="og:type" content="article" />
   <meta property="twitter:card" content="summary_large_image" />
   <link rel="icon" type="image/png" sizes="192x192" href="https://manubot.org/favicon-192x192.png" />
@@ -69,9 +69,9 @@ manubot-clear-requests-cache: false
 
 <small><em>
 This manuscript
-([permalink](https://digital-botanical-gardens-initiative.github.io/ls-report-2023/v/72a96c90f2aab350de5e06f57587f654d5df1d6b/))
+([permalink](https://digital-botanical-gardens-initiative.github.io/ls-report-2023/v/45b24424ea2bec2cd78b5cc92526445a8e70299b/))
 was automatically generated
-from [digital-botanical-gardens-initiative/ls-report-2023@72a96c9](https://github.com/digital-botanical-gardens-initiative/ls-report-2023/tree/72a96c90f2aab350de5e06f57587f654d5df1d6b)
+from [digital-botanical-gardens-initiative/ls-report-2023@45b2442](https://github.com/digital-botanical-gardens-initiative/ls-report-2023/tree/45b24424ea2bec2cd78b5cc92526445a8e70299b)
 on April 25, 2023.
 </em></small>
 
